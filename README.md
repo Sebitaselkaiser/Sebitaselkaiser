@@ -1,5 +1,5 @@
-Hola! Soy sebstian Uriarte, y junto a mi grupo, Alejandro Aleman y Rafael Cerna les presentaremoos la pagina web llamado:
+Hola! Soy Sebastian Uriarte, y junto a mi grupo, Alejandro Aleman y Rafael Cerna les presentaremos la página web llamado:
 
-Descubriendo San Martin
+Descubriendo San Martín
 
-Espero les guste y puedan conocer mas sobre este hermoso departamento!
+Espero les guste y puedan conocer más sobre este hermoso departamento!
